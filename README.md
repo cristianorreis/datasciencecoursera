@@ -1,2 +1,2 @@
 # datasciencecoursera
-My repo of data scientists tools course
+My repo for the data scientists tools course
